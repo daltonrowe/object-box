@@ -1,198 +1,198 @@
 solid OpenSCAD_Model
   facet normal 1 -0 0
     outer loop
-      vertex 121.5 -75 15
-      vertex 121.5 75 -15
-      vertex 121.5 75 15
+      vertex 75 -122 15
+      vertex 75 122 -15
+      vertex 75 122 15
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex 121.5 75 -15
-      vertex 121.5 -75 15
-      vertex 121.5 -75 -15
+      vertex 75 122 -15
+      vertex 75 -122 15
+      vertex 75 -122 -15
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 121.5 75 15
-      vertex 120.5 74 15
-      vertex 121.5 -75 15
+      vertex 75 122 15
+      vertex 74 121 15
+      vertex 75 -122 15
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 121.5 75 15
-      vertex -120.5 74 15
-      vertex 120.5 74 15
+      vertex 75 122 15
+      vertex -74 121 15
+      vertex 74 121 15
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex -120.5 74 15
-      vertex -121.5 75 15
-      vertex -120.5 -74 15
+      vertex -74 121 15
+      vertex -75 122 15
+      vertex -74 -121 15
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
-      vertex -121.5 75 15
-      vertex -120.5 74 15
-      vertex 121.5 75 15
+      vertex -75 122 15
+      vertex -74 121 15
+      vertex 75 122 15
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
-      vertex 120.5 -74 15
-      vertex 121.5 -75 15
-      vertex 120.5 74 15
+      vertex 74 -121 15
+      vertex 75 -122 15
+      vertex 74 121 15
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
-      vertex -120.5 -74 15
-      vertex 121.5 -75 15
-      vertex 120.5 -74 15
+      vertex -74 -121 15
+      vertex 75 -122 15
+      vertex 74 -121 15
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex -120.5 -74 15
-      vertex -121.5 -75 15
-      vertex 121.5 -75 15
+      vertex -74 -121 15
+      vertex -75 -122 15
+      vertex 75 -122 15
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex -121.5 -75 15
-      vertex -120.5 -74 15
-      vertex -121.5 75 15
+      vertex -75 -122 15
+      vertex -74 -121 15
+      vertex -75 122 15
     endloop
   endfacet
   facet normal 0 0 -1
     outer loop
-      vertex -121.5 -75 -15
-      vertex 121.5 75 -15
-      vertex 121.5 -75 -15
+      vertex -75 -122 -15
+      vertex 75 122 -15
+      vertex 75 -122 -15
     endloop
   endfacet
   facet normal -0 0 -1
     outer loop
-      vertex 121.5 75 -15
-      vertex -121.5 -75 -15
-      vertex -121.5 75 -15
+      vertex 75 122 -15
+      vertex -75 -122 -15
+      vertex -75 122 -15
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex -121.5 -75 -15
-      vertex -121.5 75 15
-      vertex -121.5 75 -15
+      vertex -75 -122 -15
+      vertex -75 122 15
+      vertex -75 122 -15
     endloop
   endfacet
   facet normal -1 -0 0
     outer loop
-      vertex -121.5 75 15
-      vertex -121.5 -75 -15
-      vertex -121.5 -75 15
+      vertex -75 122 15
+      vertex -75 -122 -15
+      vertex -75 -122 15
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-      vertex 121.5 75 -15
-      vertex -121.5 75 15
-      vertex 121.5 75 15
+      vertex 75 122 -15
+      vertex -75 122 15
+      vertex 75 122 15
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-      vertex -121.5 75 15
-      vertex 121.5 75 -15
-      vertex -121.5 75 -15
+      vertex -75 122 15
+      vertex 75 122 -15
+      vertex -75 122 -15
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -121.5 -75 -15
-      vertex 121.5 -75 15
-      vertex -121.5 -75 15
+      vertex -75 -122 -15
+      vertex 75 -122 15
+      vertex -75 -122 15
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-      vertex 121.5 -75 15
-      vertex -121.5 -75 -15
-      vertex 121.5 -75 -15
+      vertex 75 -122 15
+      vertex -75 -122 -15
+      vertex 75 -122 -15
     endloop
   endfacet
   facet normal -1 0 0
     outer loop
-      vertex 120.5 -74 -13
-      vertex 120.5 74 15
-      vertex 120.5 74 -13
+      vertex 74 -121 -13
+      vertex 74 121 15
+      vertex 74 121 -13
     endloop
   endfacet
   facet normal -1 -0 0
     outer loop
-      vertex 120.5 74 15
-      vertex 120.5 -74 -13
-      vertex 120.5 -74 15
+      vertex 74 121 15
+      vertex 74 -121 -13
+      vertex 74 -121 15
     endloop
   endfacet
   facet normal -0 0 1
     outer loop
-      vertex -120.5 74 -13
-      vertex 120.5 -74 -13
-      vertex 120.5 74 -13
+      vertex -74 121 -13
+      vertex 74 -121 -13
+      vertex 74 121 -13
     endloop
   endfacet
   facet normal 0 0 1
     outer loop
-      vertex 120.5 -74 -13
-      vertex -120.5 74 -13
-      vertex -120.5 -74 -13
+      vertex 74 -121 -13
+      vertex -74 121 -13
+      vertex -74 -121 -13
     endloop
   endfacet
   facet normal 1 -0 0
     outer loop
-      vertex -120.5 -74 15
-      vertex -120.5 74 -13
-      vertex -120.5 74 15
+      vertex -74 -121 15
+      vertex -74 121 -13
+      vertex -74 121 15
     endloop
   endfacet
   facet normal 1 0 0
     outer loop
-      vertex -120.5 74 -13
-      vertex -120.5 -74 15
-      vertex -120.5 -74 -13
+      vertex -74 121 -13
+      vertex -74 -121 15
+      vertex -74 -121 -13
     endloop
   endfacet
   facet normal 0 -1 0
     outer loop
-      vertex -120.5 74 -13
-      vertex 120.5 74 15
-      vertex -120.5 74 15
+      vertex -74 121 -13
+      vertex 74 121 15
+      vertex -74 121 15
     endloop
   endfacet
   facet normal 0 -1 -0
     outer loop
-      vertex 120.5 74 15
-      vertex -120.5 74 -13
-      vertex 120.5 74 -13
+      vertex 74 121 15
+      vertex -74 121 -13
+      vertex 74 121 -13
     endloop
   endfacet
   facet normal 0 1 -0
     outer loop
-      vertex 120.5 -74 -13
-      vertex -120.5 -74 15
-      vertex 120.5 -74 15
+      vertex 74 -121 -13
+      vertex -74 -121 15
+      vertex 74 -121 15
     endloop
   endfacet
   facet normal 0 1 0
     outer loop
-      vertex -120.5 -74 15
-      vertex 120.5 -74 -13
-      vertex -120.5 -74 -13
+      vertex -74 -121 15
+      vertex 74 -121 -13
+      vertex -74 -121 -13
     endloop
   endfacet
 endsolid OpenSCAD_Model
